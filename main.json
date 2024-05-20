@@ -18,7 +18,6 @@
       "FirstSentence": "Первое предложение новости 2",
       "Date": "Дата публикации новости 2"
     },
-    // ...
   ],
   "CurrentNews": null,
   "CurrentNewsIndex": 0,
