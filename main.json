@@ -1,1 +1,30 @@
+{
+  "Online": "10",
+  "Joining": "2",
+  "PlayIcon": "pack://application:,,,/Resources/play.png",
+  "UpdateIcon": "pack://application:,,,/Resources/update.png",
+  "GameState": "В главном меню",
+  "IsRunning": false,
+  "IsUpdated": true,
+  "IsPaused": false,
+  "News": [
+    {
+      "Text": "Текст новости 1",
+      "FirstSentence": "Первое предложение новости 1",
+      "Date": "Дата публикации новости 1"
+    },
+    {
+      "Text": "Текст новости 2",
+      "FirstSentence": "Первое предложение новости 2",
+      "Date": "Дата публикации новости 2"
+    },
+    // ...
+  ],
+  "CurrentNews": null,
+  "CurrentNewsIndex": 0,
+  "OpacityNext": 0.0,
+  "OpacityBack": 1.0,
+  "UpperUpdateText": "Обновление игры",
+  "LowerUpdateText": "Необходимо перезапустить игру для завершения обновления."
+}
 
